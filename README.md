@@ -45,7 +45,6 @@ Each game record contains key statistics such as **points, rebounds, assists, st
 Before running the experiments, ensure:
 - The dataset file `CBA2020-2024数据集.xlsx` is placed inside the `data/` directory.
 - All dependencies are installed.
-- If using MLP Contrastive Learning, the pre-trained model is correctly loaded.
 
 ### **Running Traditional Machine Learning Models**
 Run different machine learning models using the following commands:
