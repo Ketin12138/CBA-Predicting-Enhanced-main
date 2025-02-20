@@ -1,5 +1,5 @@
 import pandas as pd
-from dataloader.data_prepocessing import (load_data, calculate_weighted_rolling_averages,
+from dataloader.data_preprocessing import (load_data, calculate_weighted_rolling_averages,
                              preprocess_data, merge_home_away_data, calculate_seasonal_averages,calculate_rate)
 from dataloader.four_factors import (calculate_home_offense_tp, calculate_home_offense_orp,
                           calculate_home_offense_ftr, calculate_home_defense_tp,
