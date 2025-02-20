@@ -12,17 +12,17 @@ This repository contains the code implementation for the paper **"Enhancing Game
 ### **Environment Requirements**
 Ensure you have the following dependencies installed:
 ```bash
-python=3.12.7
-numpy=1.26.4
-pandas=2.2.2
-matplotlib=3.9.2
-seaborn=0.13.2
-scipy=1.13.1
-torch=2.3.1
-torchvision=0.18.1
-tqdm=4.66.5
-scikit-learn=1.5.1
-xgboost=2.1.1
+python==3.12.7
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+scipy==1.13.1
+torch==2.3.1
+torchvision==0.18.1
+tqdm==4.66.5
+scikit-learn==1.5.1
+xgboost==2.1.1
 ```
 You can create a virtual environment and install dependencies with:
 ```bash
