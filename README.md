@@ -1,4 +1,4 @@
-# Enhancing Game Outcome Predictions in the Chinese Basketball League: A Machine Learning Framework Leveraging Performance Data
+# Enhancing Game Outcome Prediction in the Chinese Basketball League through a Machine Learning Framework Based on Performance Data
 
 This repository contains the code implementation for the paper **"Enhancing Game Outcome Prediction in the Chinese Basketball League through a Machine Learning Framework Based on Performance Data".**
 
