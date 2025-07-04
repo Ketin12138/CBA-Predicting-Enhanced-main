@@ -118,6 +118,8 @@ If you find our work useful in your research, please consider citing our paper:
   pages = {23788},
 }
 
+---
+
 ## 🙏 Acknowledgments
 This project builds upon established methodologies from **sports analytics** and **machine learning research**. We appreciate the contributions from the research community that have helped shape this work.
 
