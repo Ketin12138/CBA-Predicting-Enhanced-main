@@ -2,6 +2,8 @@
 
 This repository contains the code implementation for the paper **"Enhancing Game Outcome Prediction in the Chinese Basketball League through a Machine Learning Framework Based on Performance Data".**
 
+📄 **[Read the paper here (Scientific Reports, 2025)](https://doi.org/10.1038/s41598-025-08882-7)**
+
 ![Workflow of Our Methods](./Overview.png)
 
 **Corresponding Author:** Zhong Yuhua (Email: zhongyh39@mail2.sysu.edu.cn)
@@ -96,6 +98,25 @@ python main.py --model_type DefenseOfense_detailed --algorithm SVM --standardize
 - The number of iterations in **run_experiment()** and **run_experiment_mlp_contrastive()** can be modified to shorten the training time.
 
 ---
+
+## 📖 Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{zhong_enhancing_2025,
+  title = {Enhancing game outcome prediction in the {Chinese} basketball league through a machine learning framework based on performance data},
+  volume = {15},
+  issn = {2045-2322},
+  url = {https://doi.org/10.1038/s41598-025-08882-7},
+  doi = {10.1038/s41598-025-08882-7},
+  number = {1},
+  journal = {Scientific Reports},
+  author = {Zhong, Yuhua},
+  month = jul,
+  year = {2025},
+  pages = {23788},
+}
 
 ## 🙏 Acknowledgments
 This project builds upon established methodologies from **sports analytics** and **machine learning research**. We appreciate the contributions from the research community that have helped shape this work.
