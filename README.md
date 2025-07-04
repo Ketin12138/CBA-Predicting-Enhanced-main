@@ -101,7 +101,7 @@ python main.py --model_type DefenseOfense_detailed --algorithm SVM --standardize
 
 ## 📖 Citation
 
-If you find our work useful in your research, please consider citing our paper:
+If you find my work useful in your research, please consider citing my paper:
 
 ```bibtex
 @article{zhong_enhancing_2025,
