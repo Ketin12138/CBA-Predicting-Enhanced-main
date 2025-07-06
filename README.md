@@ -104,20 +104,19 @@ python main.py --model_type DefenseOfense_detailed --algorithm SVM --standardize
 If you find my work useful in your research, please consider citing my paper:
 
 ```bibtex
-@article{zhong_enhancing_2025,
-  title = {Enhancing game outcome prediction in the {Chinese} basketball league through a machine learning framework based on performance data},
-  volume = {15},
-  issn = {2045-2322},
-  url = {https://doi.org/10.1038/s41598-025-08882-7},
-  doi = {10.1038/s41598-025-08882-7},
-  number = {1},
-  journal = {Scientific Reports},
-  author = {Zhong, Yuhua},
-  month = jul,
-  year = {2025},
-  pages = {23788},
-  publisher={Nature Publishing Group UK London}
-}
+@article{Zhong_enhancing_2025,
+title = {Enhancing game outcome prediction in the Chinese basketball league through a machine learning framework based on performance data},
+volume = {15},
+ISSN = {2045-2322},
+url = {http://dx.doi.org/10.1038/s41598-025-08882-7},
+DOI = {10.1038/s41598-025-08882-7},
+number = {1},
+journal = {Scientific Reports},
+pages = {23788},
+publisher = {Springer Science and Business Media LLC},
+author = {Zhong, Yuhua},
+year = {2025},
+month = jul }
 ```
 
 ## 🙏 Acknowledgments
